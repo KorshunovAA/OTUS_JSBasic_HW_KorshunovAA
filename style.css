@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.paragraf {
+  
+  margin-bottom: 10px;
+  max-width: 40%;
+  background-color: #2E9AFF;
+  padding: 10px 10px;
+  border: 1px solid #020c68;
+}
+
+/*
+.button{
+    visibility: hidden;
+}*/
