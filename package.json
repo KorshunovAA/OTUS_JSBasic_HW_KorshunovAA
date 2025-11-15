@@ -1,0 +1,32 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DZ10_RegExp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KorshunovAA/OTUS_JSBasic_HW_KorshunovAA.git"
+  },
+  "keywords": [],
+  "author": "Aleksandr Korshunov",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KorshunovAA/OTUS_JSBasic_HW_KorshunovAA/issues"
+  },
+  "homepage": "https://github.com/KorshunovAA/OTUS_JSBasic_HW_KorshunovAA#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0",
+    "jest-environment-jsdom": "^30.2.0"
+  }
+}
