@@ -30,8 +30,8 @@ return haveSpace;
 }
 
 console.log("ДЗ №6.2");
-console.log("   Наличие нескольких слов в строке \"Hi, people! I\'m there\"",  isWord("Hi, people! I\'m there"));
-console.log("   Наличие нескольких слов в строке \"Hi,people!I\'mthere\"",  isWord("Hi,people!I\'mthere"));
+console.log("   Наличие нескольких слов в строке \"Hi, people! I am there\"",  isWord("Hi, people! I am there"));
+console.log("   Наличие нескольких слов в строке \"Hi,people!Imthere\"",  isWord("Hi,people!Iamthere"));
 
 // ДЗ №6.3
 // Напишите функцию pow(a, x), которая вернёт значение числа a, возведённого в степень x.
