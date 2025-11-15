@@ -3,7 +3,7 @@
 
 let firstArray = [1, -43, 56, 44, 12, 29, 101, 2345, 0, 99];
 
-i = 0;
+let i = 0;
 let  summaElementsArr = 0;
 
 
